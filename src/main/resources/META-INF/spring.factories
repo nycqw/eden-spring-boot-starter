@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.eden.core.config.EdenAutoConfiguration,\
+com.eden.core.config.RedisConfiguration,\
+com.eden.core.util.RedisClient
